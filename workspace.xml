@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae3099b8-ff3b-45c2-91e8-cdccc4aa2d35" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/RoomClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/CharacterGeneration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/ChatRoomGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/DBschema.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/MUDGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/Monster.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12_Consuming_RESTful_APIs_Part_2/MUD/src/TEMUD.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2iRg291Eh2LCt450oJLKgMhRQGG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChatRoomGame.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
